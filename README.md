@@ -13,7 +13,7 @@
 1. [Motivation](#Motivation-top) -  [Achievements](#Achievements-top), [Interests](#Interests-top), [Future Goals](#Future-Goals-top)
 2. [Education / Profession](#Education-Profession-top)
 3. [Computer Science Skills](#Computer-Science-Skills-top) - [Further Training / Certifications](#Further-Training-Certifications-top)
-4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects-top) - [AI/ Data Science](#AI-Data-Science-top), [Platform](#Platform-top), [Cloud](#Cloud-top), [Hardware/ Software](#Hardware-Software-top)
+4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects-top) - [AI/ Data Science](#AI-Data-Science-top), [Cloud/Platform](#Cloud-Platform-top)
 5. [Languages](#Languages-top)
 6. [Long CV](#long-Curriculum-Vitae-top)
 
@@ -87,48 +87,22 @@
 
 | Project | Volume (€) | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |:--- |
-| Provisioning of Generative AI | <100k | Oct 23 - Nov 23 | Public Defense | GenAI SME | Provisioning of Generative AI Architecture and Use Cases |
-| Adjustments of Performance Descriptions with Generative AI | <100k | Sep 23 - Today | Public Finance | GenAI SME | Provisioning of Generative AI architecture and PoC support |
-| Knowledge Assistant based on Generative AI | 30k | Aug 23 - Oct 23 | Public Finance | GenAI SME | Architecture and Prompting Support |
 | Semantic Interoperability for Legal Concepts using Generative AI | 1M | Jul 23 - Dec 23 | Public Finance | GenAI Lead | Leading the development of an end to end approach based on GenAI |
-| Relevance Testing with Generative AI | BD | Jun 23 - Today | Public Finance | GenAI SME | Architecture and Prompting Support |
 | Efficient Design of Complex Administrative Procedures with Generative AI | 1M | May 23 - Oct 23 | Public | GenAI Lead | Leading the GenAI architecture and PoC development |
-| Knowledge Graphs using Generative AI for Situation Assessments and their Spatio-Temporal Changes | BD | Apr 23 - May 23 | Consulting | Research Scientist | Development of  GenAI flows for knowledge graph extraction |
 | BSI IT Basic Protection | 500k |Feb 23 - May 23 | Public Defense | Engineering Lead | Leading the AI driven automation of security requirements analysis |
 | Information Retrieval | 500k | Dec 21 - Apr 22 | Public | Project Manager | Development and comparison of information retrieval architectures based on Elastic Search |
 | AI Strategy | 300k | Oct 21 - Feb 22 | Automotive | Architect | Idea generation, analysis, and evaluation of AI use cases |
 | Anomaly Detection in Production | 500k | Apr 18 - Sep 18 | Automotive | Data Scientist | Development of features and algorithms for anomaly detection in laser hardening |
-| Map-based route optimization | 500k | Feb 18 - Mar 18 | Automotive | Data Scientist | Developing metrics in route optimization using Hive/Hadoop |
-| Predictive Maintenance in Data Center | BD | Apr 17 - Jul 17 | TelCo | Data Scientist | Data analysis and feature extraction for failure prediction of IT infrastructure and hardware components |
 | Predictive Maintenance in Transportation | 1M | Jul 16 - Mar 17 | Public Transport | Project Manager, Data Scientist | Feature engineering for AI model. Big Data Test Management |
 
-### Platform <sup>[[top](#Curriculum-vitae)]</sup>
+### Cloud/Platform <sup>[[top](#Curriculum-vitae)]</sup>
 
 | Project | Volume (€) | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |:--- |
 | Fraud Detection | 5M | Mar 22 - Today | Public Finance | Project Manager | Leading and consulting in AI project for fraud detection |
-| Collaborative Data Ecosystem | BD | Dec 22 – Apr 22 | Public | Architect | Develop architecture concept and operational concept |
-| Architecture Consulting | 300k | Aug 20 - Dec 20 | Public Defense | Architect | Cloud architecture assessment including application component portfolio for a private cloud |
+| Cloud Transformation | 500k | Sep 21 - Dec 21 |  TelCo | Architect | Development of cloud and analytics business cases for multiple subsidiaries in the group |
 | Architecture Consulting | 500k | Jun 19 - Dec 19 | Public Finance | Architect | Information Security Analysis including vulnerability remediation |
 | Crisis Preparedness Information System | 1M | Oct 18 - Apr 19 | Public Defense | Architect | Public Defense - Architect - Design of data management and data model |
-| Crisis Preparedness Information System | 500k | May 19 - Dec 19 | Public Defense | Development Lead | Design of cloud-based microservice architecture and prototype implementation using Scrum-based approach |
-
-### Cloud <sup>[[top](#Curriculum-vitae)]</sup>
-
-| Project | Volume (€) | Duration | Client | Role | Description |
-|:--- |:--- |:--- |:--- |:--- |:--- |
-| Cloud Transformation | Sep 21 - Dec 21 | 500k | TelCo | Architect | Development of cloud and analytics business cases for multiple subsidiaries in the group |
-| Cloud Integration | May 21 - Aug 21 | 100k | Energy Industry | Architect | Design reviews and development support of API-driven solutions (MuleSoft) |
-| Cloud Migration | Mar 20 - Oct 20 | 300k | Consulting | Architect | Solution design and rollout of a hybrid cloud application using AWS Cloud and Private Cloud |
-
-### Hardware/ Software <sup>[[top](#Curriculum-vitae)]</sup>
-
-| Project | Duration | Client | Role | Description |
-|:--- |:--- |:--- |:--- |:--- |
-| Application Lifecycle Management | 100k | Aug 17 - Jan 18 | Public Transport | Team Lead | Portfolio Management of analytics applications (APEX, Oracle, Splunk, etc.) |
-| Voice Delivery Platform | 500k | Jan 15 - Jun 16 | TelCo | Project Lead | Portfolio and test management of the software platform |
-| SW/HW Development for Satellite Communications | 300k | Feb 13 - Jun 14 | Private Defense | Development Manager | Architecture design and test of hardware and software for applied communications engineering |
-| Microsystems Optimization and Simulation | NA | Nov 08 - Jan 13 | Public Academia | PhD candidat | AI-based optimization and event-driven system simulation using Matlab, C/C++ and Verilog |
 
 ---
 
