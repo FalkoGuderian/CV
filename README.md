@@ -132,5 +132,5 @@
 
 ---
 
-## Languages [top](#Curriculum-vitae)
+## Languages <sup>[[top](#Curriculum-vitae)]</sup>
 **German** (native speaker), **English** (business fluent)
