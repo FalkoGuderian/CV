@@ -87,7 +87,7 @@
 | Project | Volume (€) | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |:--- |
 | Provisioning of Generative AI | <100k | Oct 23 - Nov 23 | Public Defense | GenAI SME | Provisioning of Generative AI Architecture and Use Cases |
-| Adjustments of Performance Descriptions with Generative AI | <100k | Sep 23 - Today | Public Finance | GenAI SME | Provisioning of Generative AI architecture and PoC support |
+| Adjustments of Performance Descriptions with Generative AI | BD | Sep 23 - Today | Public Finance | GenAI SME | Provisioning of Generative AI architecture and PoC support |
 | Knowledge Assistant based on Generative AI | 30k | Aug 23 - Oct 23 | Public Finance | GenAI SME | Architecture and Prompting Support |
 | Semantic Interoperability for Legal Concepts using Generative AI | 500k | Jul 23 - Dec 23 | Public Finance | GenAI Lead | Leading the development of an end to end approach based on GenAI |
 | Relevance Testing with Generative AI | BD | Jun 23 - Today | Public Finance | GenAI SME | Architecture and Prompting Support |
