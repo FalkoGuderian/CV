@@ -76,18 +76,6 @@
 
 ## Professional Practice (Selected Projects) <sup>[[top](#Curriculum-vitae)]</sup>
 
-### AI/ Data Science <sup>[[top](#Curriculum-vitae)]</sup>
-
-| Project | Volume (€) | Duration | Client | Role | Description |
-|:--- |:--- |:--- |:--- |:--- |:--- |
-| Semantic Interoperability for Legal Concepts using Generative AI | 1M | Jul 23 - Dec 23 | Public Finance | GenAI Lead | Leading the development of an end to end approach based on GenAI |
-| Efficient Design of Complex Administrative Procedures with Generative AI | 1M | May 23 - Oct 23 | Public | GenAI Lead | Leading the GenAI architecture and PoC development |
-| BSI IT Basic Protection | 500k |Feb 23 - May 23 | Public Defense | Engineering Lead | Leading the AI driven automation of security requirements analysis |
-| Information Retrieval | 500k | Dec 21 - Apr 22 | Public | Project Manager | Development and comparison of information retrieval architectures based on Elastic Search |
-| AI Strategy | 300k | Oct 21 - Feb 22 | Automotive | Architect | Idea generation, analysis, and evaluation of AI use cases |
-| Anomaly Detection in Production | 500k | Apr 18 - Sep 18 | Automotive | Data Scientist | Development of features and algorithms for anomaly detection in laser hardening |
-| Predictive Maintenance in Transportation | 1M | Jul 16 - Mar 17 | Public Transport | Project Manager, Data Scientist | Feature engineering for AI model. Big Data Test Management |
-
 ### Cloud/Platform <sup>[[top](#Curriculum-vitae)]</sup>
 
 | Project | Volume (€) | Duration | Client | Role | Description |
@@ -96,6 +84,18 @@
 | Cloud Transformation | 500k | Sep 21 - Dec 21 |  TelCo | Architect | Development of cloud and analytics business cases for multiple subsidiaries in the group |
 | Architecture Consulting | 500k | Jun 19 - Dec 19 | Public Finance | Architect | Information Security Analysis including vulnerability remediation |
 | Crisis Preparedness Information System | 1M | Oct 18 - Apr 19 | Public Defense | Architect | Public Defense - Architect - Design of data management and data model |
+
+### AI/ Data Science <sup>[[top](#Curriculum-vitae)]</sup>
+
+| Project | Volume (€) | Duration | Client | Role | Description |
+|:--- |:--- |:--- |:--- |:--- |:--- |
+| Semantic Interoperability for Legal Concepts using Generative AI | 500k | Jul 23 - Dec 23 | Public Finance | GenAI Lead | Leading the development of an end to end approach based on GenAI |
+| Efficient Design of Complex Administrative Procedures with Generative AI | 1M | May 23 - Oct 23 | Public | GenAI Lead | Leading the GenAI architecture and PoC development |
+| BSI IT Basic Protection | 500k |Feb 23 - May 23 | Public Defense | Engineering Lead | Leading the AI driven automation of security requirements analysis |
+| Information Retrieval | 500k | Dec 21 - Apr 22 | Public | Project Manager | Development and comparison of information retrieval architectures based on Elastic Search |
+| AI Strategy | 300k | Oct 21 - Feb 22 | Automotive | Architect | Idea generation, analysis, and evaluation of AI use cases |
+| Anomaly Detection in Production | 500k | Apr 18 - Sep 18 | Automotive | Data Scientist | Development of features and algorithms for anomaly detection in laser hardening |
+| Predictive Maintenance in Transportation | 1M | Jul 16 - Mar 17 | Public Transport | Project Manager, Data Scientist | Feature engineering for AI model. Big Data Test Management |
 
 ---
 
