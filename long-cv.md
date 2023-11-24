@@ -118,13 +118,13 @@
 | Project | Volume (€) | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |:--- |
 | Cloud Transformation | 500k | Sep 21 - Dec 21 | TelCo | Architect | Development of cloud and analytics business cases for multiple subsidiaries in the group |
-| Cloud Integration | May 21 - Aug 21 | 100k | Energy Industry | Architect | Design reviews and development support of API-driven solutions (MuleSoft) |
-| Cloud Migration | Mar 20 - Oct 20 | 300k | Consulting | Architect | Solution design and rollout of a hybrid cloud application using AWS Cloud and Private Cloud |
+| Cloud Integration | 100k | May 21 - Aug 21 |  Energy Industry | Architect | Design reviews and development support of API-driven solutions (MuleSoft) |
+| Cloud Migration | 300k | Mar 20 - Oct 20 |  Consulting | Architect | Solution design and rollout of a hybrid cloud application using AWS Cloud and Private Cloud |
 
 ### Hardware/ Software <sup>[[top](#Curriculum-vitae)]</sup>
 
-| Project | Duration | Client | Role | Description |
-|:--- |:--- |:--- |:--- |:--- |
+| Project | Volume (€) | Duration | Client | Role | Description |
+|:--- |:--- |:--- |:--- |:--- |:--- |
 | Application Lifecycle Management | 100k | Aug 17 - Jan 18 | Public Transport | Team Lead | Portfolio Management of analytics applications (APEX, Oracle, Splunk, etc.) |
 | Voice Delivery Platform | 500k | Jan 15 - Jun 16 | TelCo | Project Lead | Portfolio and test management of the software platform |
 | SW/HW Development for Satellite Communications | 300k | Feb 13 - Jun 14 | Private Defense | Development Manager | Architecture design and test of hardware and software for applied communications engineering |
