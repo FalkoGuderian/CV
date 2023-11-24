@@ -10,6 +10,36 @@
 
 ---
 
+1. [Overview](#Overview) -  [Achievements](#Achievements), [Interests](#Interests), [Future Goals](#Future-Goals)
+2. [Education / Profession](#Education-Profession)
+3. [Computer Science Skills](#Computer-Science-Skills) - [Further Training / Certifications](#Further-Training-Certifications)
+4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects)- [AI/ Data Science](#AI-Data-Science), [Platform](#Platform), [Cloud](#Cloud), [Hardware / Software](#Hardware-Software)
+5. [Languages](#Languages)
+
+---
+## Overview
+### Achievements
+1. Proven leadership: Successfully managed an AI project with a 15-member team, delivering on project goals and exceeding revenue expectations by generating >2M € yearly.
+2. Expertise in Generative AI: Deep understanding of Generative AI with experience in designing and implementing multiple AI projects.
+3. Exceptional project management: Solid track record in executing large scale projects while adhering to budget and timelines.
+4. Stakeholder management: Proficient in managing and communicating with various internal and external stakeholders.
+5. Financial savvy: Managed projects with multi-million dollar budgets, consistently delivering excellent returns on investment.
+
+### Interests
+1. Innovative technologies: Interested in implementing and advancing disruptive technologies to foster operational efficiency.
+2. Collaborative leadership: Enjoy working with diverse teams, cultivating talents, and supporting career growth for team members.
+3. Data-driven decision making: High interest in leveraging data and analytics to drive strategic decisions and project success.
+4. Continuous learning: Always pursuing new industry knowledge and seeking opportunities to stay at the forefront of the AI field.
+
+### Future Goals
+1. Leadership expansion: Seeking for higher leadership roles, possibly Director level, committed to driving company strategy and growth.
+2. Greater impact: Looking forward to working on projects with bigger scope and impact, enhancing my contribution to the AI industry.
+3. Culture fit: Looking for a company that truly recognizes and appreciates individual contributions, and promotes an inclusive and supportive work environment.
+4. Enhancing AI application: Interested in exploring new ways of applying AI for solving complex business problems and contribute to technological advancement.
+5. Professional development: Aspiring for continuous career growth, expanding my leadership skills further, while staying abreast with latest trends in AI. 
+
+---
+
 ## Education / Profession
 
 | Organization             |   Duration             | Position                                                      |
@@ -99,6 +129,8 @@
 | Voice Delivery Platform | Jan 15 - Jun 16 | TelCo | Project Lead | Portfolio and test management of the software platform |
 | SW/HW Development for Satellite Communications | Feb 13 - Jun 14 | Private Defense | Development Manager | Architecture design and test of hardware and software for applied communications engineering |
 | Microsystems Optimization and Simulation | Nov 08 - Jan 13 | Public Academia | PhD candidat | AI-based optimization and event-driven system simulation using Matlab, C/C++ and Verilog |
+
+---
 
 ## Languages
 **German** (native speaker), **English** (business fluent)
