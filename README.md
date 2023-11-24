@@ -1,4 +1,4 @@
-# Curriculum vitae 
+# Curriculum Vitae 
 <img src="https://github.com/FalkoGuderian/CV/assets/10437268/6be8235e-6cce-4de1-a880-acac7a333311" alt="image" width="20%">
 
 
@@ -15,6 +15,7 @@
 3. [Computer Science Skills](#Computer-Science-Skills-top) - [Further Training / Certifications](#Further-Training-Certifications-top)
 4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects-top) - [AI/ Data Science](#AI-Data-Science-top), [Platform](#Platform-top), [Cloud](#Cloud-top), [Hardware/ Software](#Hardware-Software-top)
 5. [Languages](#Languages-top)
+6. [Long Curriculum Vitae](#long-cv-top)
 
 ---
 ## Motivation <sup>[[top](#Curriculum-vitae)]</sup>
@@ -133,3 +134,7 @@
 
 ## Languages <sup>[[top](#Curriculum-vitae)]</sup>
 **German** (native speaker), **English** (business fluent)
+
+---
+## Long CV <sup>[[top](#Curriculum-vitae)]</sup>
+[Click here](./long-cv.md)
