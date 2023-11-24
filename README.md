@@ -40,7 +40,7 @@
 
 ---
 
-## Education / Profession
+## Education/ Profession
 
 | Organization             |   Duration             | Position                                                      |
 |:-------------------------------|:------------|:---------------------------------------------------------------|
@@ -66,7 +66,7 @@
 | Products and Standards | Jira, Public & Private Clouds, Docker, ElasticSearch, Hadoop, Kafka, Mulesoft, Informatica, Streamlit |
 | Tools | Depending on the domain; e.g. PyCharm, Eclipse, IntelliJ, Jira, Confluence |
 
-### Further Training / Certifications
+### Further Training/ Certifications
 
 | Date   | Certification |
 |:--- |:--- |
