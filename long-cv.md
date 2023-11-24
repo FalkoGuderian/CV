@@ -1,4 +1,4 @@
-# Curriculum Vitae 
+# Long Curriculum Vitae 
 <img src="https://github.com/FalkoGuderian/CV/assets/10437268/6be8235e-6cce-4de1-a880-acac7a333311" alt="image" width="20%">
 
 
