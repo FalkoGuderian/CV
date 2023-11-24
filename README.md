@@ -50,22 +50,17 @@
 | T-Systems                    | Nov 14 – Jan 18 | Expert Solutions Engineer for Data Analytics, Machine Learning, and Quality Management |
 | Rohde & Schwarz              | Feb 13 – May 14 | Project Manager for Hardware/Software Development             |
 | Technical University of Dresden | Nov 08 – Jan 13 | Doctoral Studies in Electrical and Information Systems Engineering |
-| AMTC Dresden                 | Jul 07 – Oct 08 | Automation Engineer for Mask Data Processing                   |
-| Technical University of Dresden | Oct 00 – Jun 07 | Degree in Business Informatics and Industrial Engineering         |
 
 ---
 
 ## Computer Science Skills <sup>[[top](#Curriculum-vitae)]</sup>
 |   Area    | Skills                                                                            |
 |:------------|:----------------------------------------------------------------------------------|
-| Domain | Solution design, Modelling, Simulation, Cloud, Security, CI/CD, Dev/MLOps, Cloud native development, Agility |
 | Technologies / Operating Systems | Virtualisierung, Cloud, Container, SDN, SDS, NFV, Service Mesh, Windows, Linux |
 | Methods | TOGAF, ITIL, PMP, ISTQB, BSI IT-Grundschutz, HLA, OOA, OOD, OOP, UML, SCRUM, Kanban |
 | Programming Languages | Python, Java, C/C#/C++, Matlab, Verilog, Ansible |
 | GenAI Models / Tools | OpenAI, Aleph Alpha, Llama / Chainforge, LlamaIndex, Langchain |
-| Database Systems | PostgreSQL, Neo4J, ChromaDB, MongoDB, Oracle, MinIO |
 | Products and Standards | Jira, Public & Private Clouds, Docker, ElasticSearch, Hadoop, Kafka, Mulesoft, Informatica, Streamlit |
-| Tools | Depending on the domain; e.g. PyCharm, Eclipse, IntelliJ, Jira, Confluence |
 
 ### Further Training/ Certifications <sup>[[top](#Curriculum-vitae)]</sup>
 
@@ -74,9 +69,7 @@
 | Mar 23 | NATO Architecture Framework, Version 4 |
 | Dec 22 | SAFe Product Owner/Product Manager |
 | Oct 20 | ITIL Foundation (2011) |
-| Sep 19 | MuleSoft Developer |
 | Nov 18 | AWS Associate Solution Architect |
-| Aug 15 | ISTQB Certified Tester – Foundation Level |
 | Oct 14 | PMI Project Management Professional |
 
 ---
