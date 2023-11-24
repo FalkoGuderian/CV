@@ -9,7 +9,7 @@
 **Key Areas:** Realization of AI and data-oriented platforms, systems, and applications. Team lead engineering and solution design  
 
 ---
-## Overview
+## Outline
 1. [Motivation](#Motivation) -  [Achievements](#Achievements), [Interests](#Interests), [Future Goals](#Future-Goals)
 2. [Education / Profession](#Education-Profession)
 3. [Computer Science Skills](#Computer-Science-Skills) - [Further Training / Certifications](#Further-Training-Certifications)
