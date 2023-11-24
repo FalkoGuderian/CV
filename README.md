@@ -90,7 +90,7 @@
 | Adjustments of Performance Descriptions with Generative AI | <100k | Sep 23 - Today | Public Finance | GenAI SME | Provisioning of Generative AI architecture and PoC support |
 | Knowledge Assistant based on Generative AI | 30k | Aug 23 - Oct 23 | Public Finance | GenAI SME | Architecture and Prompting Support |
 | Semantic Interoperability for Legal Concepts using Generative AI | 1M | Jul 23 - Dec 23 | Public Finance | GenAI Lead | Leading the development of an end to end approach based on GenAI |
-| Relevance Testing with Generative AI | BD | Jun 23 - Today | Public Finance | Project Manager | Architecture and Prompting Support |
+| Relevance Testing with Generative AI | BD | Jun 23 - Today | Public Finance | GenAI SME | Architecture and Prompting Support |
 | Efficient Design of Complex Administrative Procedures with Generative AI | 1M | May 23 - Oct 23 | Public | GenAI Lead | Leading the GenAI architecture and PoC development |
 | Knowledge Graphs using Generative AI for Situation Assessments and their Spatio-Temporal Changes | BD | Apr 23 - May 23 | Consulting | Research Scientist | Development of  GenAI flows for knowledge graph extraction |
 | BSI IT Basic Protection | 500k |Feb 23 - May 23 | Public Defense | Engineering Lead | Leading the AI driven automation of security requirements analysis |
