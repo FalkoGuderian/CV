@@ -9,15 +9,15 @@
 **Key Areas:** Realization of AI and data-oriented platforms, systems, and applications. Team lead engineering and solution design  
 
 ---
-## Table of Contents
-1. [Overview](#Overview) -  [Achievements](#Achievements), [Interests](#Interests), [Future Goals](#Future-Goals)
+## Overview
+1. [Motivation](#Motivation) -  [Achievements](#Achievements), [Interests](#Interests), [Future Goals](#Future-Goals)
 2. [Education / Profession](#Education-Profession)
 3. [Computer Science Skills](#Computer-Science-Skills) - [Further Training / Certifications](#Further-Training-Certifications)
 4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects) - [AI/ Data Science](#AI-Data-Science), [Platform](#Platform), [Cloud](#Cloud), [Hardware/ Software](#Hardware-Software)
 5. [Languages](#Languages)
 
 ---
-## Overview
+## Motivation
 ### Achievements
 1. Proven leadership: Successfully managed an AI project with a 15-member team, delivering on project goals and exceeding revenue expectations by generating >2M € yearly.
 2. Expertise in Generative AI: Deep understanding of Generative AI with experience in designing and implementing multiple AI projects.
