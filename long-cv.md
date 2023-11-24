@@ -117,7 +117,7 @@
 
 | Project | Volume (€) | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |:--- |
-| Cloud Transformation | Sep 21 - Dec 21 | 500k | TelCo | Architect | Development of cloud and analytics business cases for multiple subsidiaries in the group |
+| Cloud Transformation | 500k | Sep 21 - Dec 21 | TelCo | Architect | Development of cloud and analytics business cases for multiple subsidiaries in the group |
 | Cloud Integration | May 21 - Aug 21 | 100k | Energy Industry | Architect | Design reviews and development support of API-driven solutions (MuleSoft) |
 | Cloud Migration | Mar 20 - Oct 20 | 300k | Consulting | Architect | Solution design and rollout of a hybrid cloud application using AWS Cloud and Private Cloud |
 
