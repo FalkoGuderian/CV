@@ -15,7 +15,7 @@
 3. [Computer Science Skills](#Computer-Science-Skills-top) - [Further Training / Certifications](#Further-Training-Certifications-top)
 4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects-top) - [AI/ Data Science](#AI-Data-Science-top), [Platform](#Platform-top), [Cloud](#Cloud-top), [Hardware/ Software](#Hardware-Software-top)
 5. [Languages](#Languages-top)
-6. [Long CV](#long-cv-top)
+6. [Long CV](#long-Curriculum-Vitae-top)
 
 ---
 ## Motivation <sup>[[top](#Curriculum-vitae)]</sup>
@@ -136,5 +136,5 @@
 **German** (native speaker), **English** (business fluent)
 
 ---
-## Long CV <sup>[[top](#Curriculum-vitae)]</sup>
+## Long Curriculum Vitae <sup>[[top](#Curriculum-vitae)]</sup>
 [Click here](./long-cv.md)
