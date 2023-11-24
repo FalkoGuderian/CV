@@ -17,21 +17,21 @@
 5. [Languages](#Languages)
 
 ---
-## Motivation <sup>[[top](#Curriculum-vitae)]</sup>
-### Achievements
+## Motivation
+### Achievements <sup>[[top](#Curriculum-vitae)]</sup>
 1. Proven leadership: Successfully managed an AI project with a 15-member team, delivering on project goals and exceeding revenue expectations by generating >2M € yearly.
 2. Expertise in Generative AI: Deep understanding of Generative AI with experience in designing and implementing multiple AI projects.
 3. Exceptional project management: Solid track record in executing large scale projects while adhering to budget and timelines.
 4. Stakeholder management: Proficient in managing and communicating with various internal and external stakeholders.
 5. Financial savvy: Managed projects with multi-million dollar budgets, consistently delivering excellent returns on investment.
 
-### Interests
+### Interests <sup>[[top](#Curriculum-vitae)]</sup>
 1. Innovative technologies: Interested in implementing and advancing disruptive technologies to foster operational efficiency.
 2. Collaborative leadership: Enjoy working with diverse teams, cultivating talents, and supporting career growth for team members.
 3. Data-driven decision making: High interest in leveraging data and analytics to drive strategic decisions and project success.
 4. Continuous learning: Always pursuing new industry knowledge and seeking opportunities to stay at the forefront of the AI field.
 
-### Future Goals
+### Future Goals <sup>[[top](#Curriculum-vitae)]</sup>
 1. Leadership expansion: Seeking for higher leadership roles, possibly Director level, committed to driving company strategy and growth.
 2. Greater impact: Looking forward to working on projects with bigger scope and impact, enhancing my contribution to the AI industry.
 3. Culture fit: Looking for a company that truly recognizes and appreciates individual contributions, and promotes an inclusive and supportive work environment.
