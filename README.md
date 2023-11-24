@@ -17,7 +17,7 @@
 5. [Languages](#Languages)
 
 ---
-## Motivation
+## Motivation <sup>[[top](#Curriculum-vitae)]</sup>
 ### Achievements
 1. Proven leadership: Successfully managed an AI project with a 15-member team, delivering on project goals and exceeding revenue expectations by generating >2M € yearly.
 2. Expertise in Generative AI: Deep understanding of Generative AI with experience in designing and implementing multiple AI projects.
@@ -40,7 +40,7 @@
 
 ---
 
-## Education/ Profession
+## Education/ Profession <sup>[[top](#Curriculum-vitae)]</sup>
 
 | Organization             |   Duration             | Position                                                      |
 |:-------------------------------|:------------|:---------------------------------------------------------------|
@@ -54,7 +54,7 @@
 
 ---
 
-## Computer Science Skills
+## Computer Science Skills <sup>[[top](#Curriculum-vitae)]</sup>
 |   Area    | Skills                                                                            |
 |:------------|:----------------------------------------------------------------------------------|
 | Domain | Solution design, Modelling, Simulation, Cloud, Security, CI/CD, Dev/MLOps, Cloud native development, Agility |
@@ -66,7 +66,7 @@
 | Products and Standards | Jira, Public & Private Clouds, Docker, ElasticSearch, Hadoop, Kafka, Mulesoft, Informatica, Streamlit |
 | Tools | Depending on the domain; e.g. PyCharm, Eclipse, IntelliJ, Jira, Confluence |
 
-### Further Training/ Certifications
+### Further Training/ Certifications <sup>[[top](#Curriculum-vitae)]</sup>
 
 | Date   | Certification |
 |:--- |:--- |
@@ -80,9 +80,9 @@
 
 ---
 
-## Professional Practice (Selected Projects)
+## Professional Practice (Selected Projects) <sup>[[top](#Curriculum-vitae)]</sup>
 
-### AI/ Data Science
+### AI/ Data Science <sup>[[top](#Curriculum-vitae)]</sup>
 
 | Project | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |
@@ -101,7 +101,7 @@
 | Predictive Maintenance in Data Center | Apr 17 - Jul 17 | TelCo | Data Scientist | Data analysis and feature extraction for failure prediction of IT infrastructure and hardware components |
 | Predictive Maintenance in Transportation | Jul 16 - Mar 17 | Public Transport | Project Manager, Data Scientist | Feature engineering for AI model. Big Data Test Management |
 
-### Platform
+### Platform <sup>[[top](#Curriculum-vitae)]</sup>
 
 | Project | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |
@@ -113,7 +113,7 @@
 | Crisis Preparedness Information System | Oct 18 - Apr 19 | Public Defense | Architect | Public Defense - Architect - Design of data management and data model |
 | Crisis Preparedness Information System | May 19 - Dec 19 | Public Defense | Development Lead | Design of cloud-based microservice architecture and prototype implementation using Scrum-based approach |
 
-### Cloud
+### Cloud <sup>[[top](#Curriculum-vitae)]</sup>
 
 | Project | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |
@@ -121,7 +121,7 @@
 | Cloud Integration | May 21 - Aug 21 | Energy Industry | Architect | Design reviews and development support of API-driven solutions (MuleSoft) |
 | Cloud Migration | Mar 20 - Oct 20 | Consulting | Architect | Solution design and rollout of a hybrid cloud application using AWS Cloud and Private Cloud |
 
-### Hardware/ Software
+### Hardware/ Software <sup>[[top](#Curriculum-vitae)]</sup>
 
 | Project | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |
