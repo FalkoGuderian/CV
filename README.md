@@ -13,7 +13,7 @@
 1. [Overview](#Overview) -  [Achievements](#Achievements), [Interests](#Interests), [Future Goals](#Future-Goals)
 2. [Education / Profession](#Education-Profession)
 3. [Computer Science Skills](#Computer-Science-Skills) - [Further Training / Certifications](#Further-Training-Certifications)
-4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects)- [AI/ Data Science](#AI-Data-Science), [Platform](#Platform), [Cloud](#Cloud), [Hardware / Software](#Hardware-Software)
+4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects)- [AI/ Data Science](#AI-Data-Science), [Platform](#Platform), [Cloud](#Cloud), [Hardware/ Software](#Hardware-Software)
 5. [Languages](#Languages)
 
 ---
@@ -121,7 +121,7 @@
 | Cloud Integration | May 21 - Aug 21 | Energy Industry | Architect | Design reviews and development support of API-driven solutions (MuleSoft) |
 | Cloud Migration | Mar 20 - Oct 20 | Consulting | Architect | Solution design and rollout of a hybrid cloud application using AWS Cloud and Private Cloud |
 
-### Hardware / Software
+### Hardware/ Software
 
 | Project | Duration | Client | Role | Description |
 |:--- |:--- |:--- |:--- |:--- |
