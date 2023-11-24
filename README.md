@@ -10,11 +10,11 @@
 
 ---
 ## Outline
-1. [Motivation](#Motivation) -  [Achievements](#Achievements), [Interests](#Interests), [Future Goals](#Future-Goals)
-2. [Education / Profession](#Education-Profession)
-3. [Computer Science Skills](#Computer-Science-Skills) - [Further Training / Certifications](#Further-Training-Certifications)
-4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects) - [AI/ Data Science](#AI-Data-Science), [Platform](#Platform), [Cloud](#Cloud), [Hardware/ Software](#Hardware-Software)
-5. [Languages](#Languages)
+1. [Motivation](#Motivation-top) -  [Achievements](#Achievements-top), [Interests](#Interests-top), [Future Goals](#Future-Goals-top)
+2. [Education / Profession](#Education-Profession-top)
+3. [Computer Science Skills](#Computer-Science-Skills-top) - [Further Training / Certifications](#Further-Training-Certifications-top)
+4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects-top) - [AI/ Data Science](#AI-Data-Science-top), [Platform](#Platform-top), [Cloud](#Cloud-top), [Hardware/ Software](#Hardware-Software-top)
+5. [Languages](#Languages-top)
 
 ---
 ## Motivation <sup>[[top](#Curriculum-vitae)]</sup>
