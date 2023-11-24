@@ -9,11 +9,11 @@
 **Key Areas:** Realization of AI and data-oriented platforms, systems, and applications. Team lead engineering and solution design  
 
 ---
-
+## Table of Contents
 1. [Overview](#Overview) -  [Achievements](#Achievements), [Interests](#Interests), [Future Goals](#Future-Goals)
 2. [Education / Profession](#Education-Profession)
 3. [Computer Science Skills](#Computer-Science-Skills) - [Further Training / Certifications](#Further-Training-Certifications)
-4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects)- [AI/ Data Science](#AI-Data-Science), [Platform](#Platform), [Cloud](#Cloud), [Hardware/ Software](#Hardware-Software)
+4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects) - [AI/ Data Science](#AI-Data-Science), [Platform](#Platform), [Cloud](#Cloud), [Hardware/ Software](#Hardware-Software)
 5. [Languages](#Languages)
 
 ---
