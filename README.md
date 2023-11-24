@@ -23,7 +23,7 @@
 2. Expertise in Generative AI: Deep understanding of Generative AI with experience in designing and implementing multiple AI projects.
 3. Exceptional project management: Solid track record in executing large scale projects while adhering to budget and timelines.
 4. Stakeholder management: Proficient in managing and communicating with various internal and external stakeholders.
-5. Financial savvy: Managed projects with multi-million dollar budgets, consistently delivering excellent returns on investment.
+5. Financial savvy: Managed projects with multi-million euro budgets, consistently delivering excellent returns on investment.
 
 ### Interests <sup>[[top](#Curriculum-vitae)]</sup>
 1. Innovative technologies: Interested in implementing and advancing disruptive technologies to foster operational efficiency.
