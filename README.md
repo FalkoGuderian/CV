@@ -16,6 +16,7 @@
 4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects-top) - [Cloud/Platform](#Cloud-Platform-top), [AI/ Data Science](#AI-Data-Science-top)
 5. [Languages](#Languages-top)
 6. [Long CV](#long-Curriculum-Vitae-top)
+7. [AIRE - AI Driven Requirements Engineering](#AIRE-AI-driven-requirements-engineering-top)
 
 ---
 ## Motivation <sup>[[top](#Curriculum-vitae)]</sup>
@@ -105,3 +106,7 @@
 ---
 ## Long Curriculum Vitae <sup>[[top](#Curriculum-vitae)]</sup>
 [Click here](./long-cv.md)
+
+--.
+### AIRE - AI Driven Requirements Engineering<sup>[[top](#Curriculum-vitae)]</sup>
+[Click here](https://github.com/FalkoGuderian/AIRE)
