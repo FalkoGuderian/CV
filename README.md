@@ -15,8 +15,8 @@
 3. [Computer Science Skills](#Computer-Science-Skills-top) - [Further Training / Certifications](#Further-Training-Certifications-top)
 4. [Professional Practice (Selected Projects)](#Professional-Practice-Selected-Projects-top) - [Cloud/Platform](#Cloud-Platform-top), [AI/ Data Science](#AI-Data-Science-top)
 5. [Languages](#Languages-top)
-6. [Long CV](#long-Curriculum-Vitae-top)
-7. [AIRE - AI Driven Requirements Engineering](#AIRE-AI-driven-requirements-engineering-top)
+6. [AIRE - AI Driven Requirements Engineering](#AIRE-AI-driven-requirements-engineering-top)
+7. [Long CV](#long-Curriculum-Vitae-top)
 
 ---
 ## Motivation <sup>[[top](#Curriculum-vitae)]</sup>
@@ -104,9 +104,10 @@
 **German** (native speaker), **English** (business fluent)
 
 ---
+### AIRE - AI Driven Requirements Engineering<sup>[[top](#Curriculum-vitae)]</sup>
+[Click here](https://github.com/FalkoGuderian/AIRE)
+
+---
 ## Long Curriculum Vitae <sup>[[top](#Curriculum-vitae)]</sup>
 [Click here](./long-cv.md)
 
---.
-### AIRE - AI Driven Requirements Engineering<sup>[[top](#Curriculum-vitae)]</sup>
-[Click here](https://github.com/FalkoGuderian/AIRE)
