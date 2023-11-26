@@ -105,7 +105,7 @@
 
 ---
 ### AIRE - AI Driven Requirements Engineering <sup>[[top](#Curriculum-vitae)]</sup>
-[Click here](https://github.com/FalkoGuderian/AIRE)
+The business world is constantly evolving, which means that organisations using and creating software must adapt to stay competitive. However, keeping up with the rapidly changing landscape can be difficult. That’s where artificial intelligence (AI) comes in. This framework shows how AI can enhance the requirements engineering process, giving businesses a competitive edge. AI driven requirements engineering can help organizations make better decisions and implement policies more effectively by providing them with more accurate, comprehensive, and timely information. Several examples show a successful application of AI in requirements engineering...[More here](https://github.com/FalkoGuderian/AIRE)
 
 ---
 ## Long Curriculum Vitae <sup>[[top](#Curriculum-vitae)]</sup>
