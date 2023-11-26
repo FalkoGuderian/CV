@@ -104,7 +104,7 @@
 **German** (native speaker), **English** (business fluent)
 
 ---
-### AIRE - AI Driven Requirements Engineering<sup>[[top](#Curriculum-vitae)]</sup>
+### AIRE - AI Driven Requirements Engineering <sup>[[top](#Curriculum-vitae)]</sup>
 [Click here](https://github.com/FalkoGuderian/AIRE)
 
 ---
