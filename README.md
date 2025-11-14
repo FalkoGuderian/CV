@@ -130,7 +130,7 @@ Selected public repositories:
 
 - [**AIRE**](https://github.com/FalkoGuderian/AIRE) – AI-driven requirements engineering
 Notebook
-- [**GitlabMcpServer**](https://github.com/FalkoGuderian/gitlab-mcp-server) – Unofficial GitLab MCP server for Cline and other MCP clients
+- [**GitlabMCPServer**](https://github.com/FalkoGuderian/gitlab-mcp-server) – Unofficial GitLab MCP server for Cline and other MCP clients
 - [**HeadacheDiary**](https://github.com/FalkoGuderian/HeadacheDiary) – Tracking and analyzing headache patterns
 - [**MusicCreator**](https://github.com/FalkoGuderian/MusicCreator) – Advanced AI music composition system
 - [**OGC Distance Measurement and Compliance Check**](https://github.com/FalkoGuderian/OGC-distance-and-compliance) – OGC distance measurement and AI-driven compliance check
