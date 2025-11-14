@@ -134,7 +134,7 @@ Notebook
 - [**HeadacheDiary**](https://github.com/FalkoGuderian/HeadacheDiary) – Tracking and analyzing headache patterns
 - [**MusicCreator**](https://github.com/FalkoGuderian/MusicCreator) – Advanced AI music composition system
 - [**OGC Distance Measurement and Compliance Check**](https://github.com/FalkoGuderian/OGC-distance-and-compliance) – OGC distance measurement and AI-driven compliance check
-- [**VirtualTaxAdvisory**](https://github.com/FalkoGuderian/VirtualTaxAdvisory) – Virtual Tax Advisory with Open 
+- [**VirtualTaxAdvisory**](https://github.com/FalkoGuderian/VirtualTaxAdvisory) – Virtual Tax Advisory with Open Notebook
 
 [View all repositories](https://github.com/FalkoGuderian?tab=repositories)
 
