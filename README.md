@@ -133,6 +133,7 @@ Selected public repositories:
 - [**MusicCreator**](https://github.com/FalkoGuderian/MusicCreator) – Advanced AI music composition system
 - [**OGC Distance Measurement and Compliance Check**](https://github.com/FalkoGuderian/OGC-distance-and-compliance) – OGC distance measurement and AI-driven compliance check
 - [**AIRE**](https://github.com/FalkoGuderian/AIRE) – AI-driven requirements engineering
+- [**HeadacheDiary**](https://github.com/FalkoGuderian/HeadacheDiary) – Tracking and analyzing headache patterns
 
 [View all repositories](https://github.com/FalkoGuderian?tab=repositories)
 
