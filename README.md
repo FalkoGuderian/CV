@@ -9,7 +9,19 @@
 **Key Areas:** Realization of AI- and data-oriented platforms, systems, and applications; engineering leadership and solution design.
 
 ---
+## GitHub Repositories
 
+Selected public repositories:
+
+- [**Gitlab MCP Server**](https://github.com/FalkoGuderian/gitlab-mcp-server) – Unofficial GitLab MCP server for Cline and other MCP clients
+- [**Geo Search and Compliance Check**](https://github.com/FalkoGuderian/geo-search-and-compliance.git) – AI-driven geo object search and compliance check
+- [**Headache Diary**](https://github.com/FalkoGuderian/HeadacheDiary) – Tracking and analyzing headache patterns
+- [**Music Creator**](https://github.com/FalkoGuderian/MusicCreator) – Advanced AI music composition system
+- [**Virtual Tax Advisory**](https://github.com/FalkoGuderian/VirtualTaxAdvisory) – Virtual Tax Advisory with Open Notebook
+
+[View all repositories](https://github.com/FalkoGuderian?tab=repositories)
+
+---
 ## Outline
 
 1. [Motivation](#motivation)
@@ -23,8 +35,7 @@
    - [Cloud / Platform](#cloud--platform)
    - [AI / Data Science](#ai--data-science)
 5. [Languages](#languages)
-6. [GitHub Repositories](#github-repositories)
-7. [Long Curriculum Vitae](#long-curriculum-vitae)
+6. [Long Curriculum Vitae](#long-curriculum-vitae)
 
 ---
 
@@ -124,21 +135,6 @@
 
 ---
 
-## GitHub Repositories
-
-Selected public repositories:
-
-- [**AIRE**](https://github.com/FalkoGuderian/AIRE) – AI-driven requirements engineering
-Notebook
-- [**Gitlab MCP Server**](https://github.com/FalkoGuderian/gitlab-mcp-server) – Unofficial GitLab MCP server for Cline and other MCP clients
-- [**Headache Diary**](https://github.com/FalkoGuderian/HeadacheDiary) – Tracking and analyzing headache patterns
-- [**Music Creator**](https://github.com/FalkoGuderian/MusicCreator) – Advanced AI music composition system
-- [**Geo Search and Compliance Check**](https://github.com/FalkoGuderian/geo-search-and-compliance.git) – AI-driven geo search and compliance check
-- [**Virtual Tax Advisory**](https://github.com/FalkoGuderian/VirtualTaxAdvisory) – Virtual Tax Advisory with Open Notebook
-
-[View all repositories](https://github.com/FalkoGuderian?tab=repositories)
-
----
 
 ## Long Curriculum Vitae
 
