@@ -13,7 +13,7 @@
 
 Selected public repositories:
 
-- [**Animated GIF Generator**](https://animategifapp.onrender.com) - Web application for converting videos to animated GIFs
+- [**Animated GIF Generator**](https://github.com/FalkoGuderian/AnimateGifApp) - Web application for converting videos to animated GIFs
 - [**Gitlab MCP Server**](https://github.com/FalkoGuderian/gitlab-mcp-server) – Unofficial GitLab MCP server for Cline and other MCP clients
 - [**Geo Search and Compliance Check**](https://github.com/FalkoGuderian/geo-search-and-compliance.git) – AI-driven geo object search and compliance check
 - [**Headache Diary**](https://github.com/FalkoGuderian/HeadacheDiary) – Tracking and analyzing headache patterns
