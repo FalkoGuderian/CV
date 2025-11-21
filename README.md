@@ -18,6 +18,7 @@ Selected public repositories:
 - [**Headache Diary**](https://github.com/FalkoGuderian/HeadacheDiary) – Tracking and analyzing headache patterns
 - [**Music Creator**](https://github.com/FalkoGuderian/MusicCreator) – Advanced AI music composition system
 - [**Virtual Tax Advisory**](https://github.com/FalkoGuderian/VirtualTaxAdvisory) – Virtual Tax Advisory with Open Notebook
+- [**Animated GIF Generator**](https://animategifapp.onrender.com) - Web application for converting videos to animated GIFs
 
 [View all repositories](https://github.com/FalkoGuderian?tab=repositories)
 
